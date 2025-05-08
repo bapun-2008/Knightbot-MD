@@ -1,6 +1,6 @@
 const settings = {
   packname: 'Bapun Bot',
-  author: '‎',
+  author: '‎',Bapun
   botName: "Bapun Bot",
   botOwner: 'Professor', // ×͜×𝙱𝙰𝙿𝚄𝙽★࿐
   ownerNumber: '919090913983', //Set your number here without + symbol, just add country code & number without any space
