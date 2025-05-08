@@ -5,9 +5,9 @@ const path = require('path');
 async function helpCommand(sock, chatId, channelLink) {
     const helpMessage = `
 ╔═══════════════════╗
-   *🤖 ${settings.botName || 'KnightBot-MD'}*  
+   *🤖 ${settings.botName || 'BapunBot-MD'}*  
    Version: *${settings.version || '1.0.0'}*
-   by ${settings.botOwner || 'Mr Unique Hacker'}
+   by ${settings.botOwner || 'Mr Bapun'}
    YT : ${global.ytch}
 ╚═══════════════════╝
 
@@ -147,7 +147,6 @@ async function helpCommand(sock, chatId, channelLink) {
 ║ ➤ .repo
 ╚═══════════════════╝
 
-Join our channel for updates:`;
 
     try {
         const imagePath = path.join(__dirname, '../assets/bot_image.jpg');
