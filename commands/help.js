@@ -8,7 +8,7 @@ async function helpCommand(sock, chatId, channelLink) {
    *🤖 ${settings.botName || 'BapunBot-MD'}*  
    Version: *${settings.version || '1.0.0'}*
    by ${settings.botOwner || 'Mr Bapun'}
-   YT : ${global.ytch}
+   YT : ${global.Bapun}
 ╚═══════════════════╝
 
 *Available Commands:*
